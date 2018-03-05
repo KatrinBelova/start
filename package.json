@@ -1,0 +1,22 @@
+{
+  "name": "new-progect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
